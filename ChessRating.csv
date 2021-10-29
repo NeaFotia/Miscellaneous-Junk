@@ -1,0 +1,101 @@
+Rank,Name,Country,Classic,Rapid,Blitz,Age
+1,Carlsen,Norway,2855,2842,2892,30
+2,Ding Liren,China,2799,2836,2788,28
+3,Caruana,USA,2786.4,2775,2765,29
+4,Nepomniachtchi,Russia,2782,2798,2792,31
+5,Aronian,Armenia,2782,2761,2767,39
+6,So,USA,2777.3,2766,2814,28
+7,Giri,Netherlands,2774,2767,2778,27
+8,Grischuk,Russia,2773,2763,2757,37
+9,Firouzja,France,2770,2656,2810,18
+10,Rapport,Hungary,2768.3,2750,2754,25
+11,Mamedyarov,Azerbaijan,2765,2727,2754,36
+12,Vachier-Lagrave,France,2763,2773,2838,30
+13,Radjabov,Azerbaijan,2763,2747,2705,34
+14,Duda,Poland,2756,2801,2792,23
+15,Dominguez Perez,USA,2755.9,2722,2728,38
+16,Anand,India,2751.7,2748,2825,51
+17,Wang Hao,China,2744,2750,2712,32
+18,Karjakin,Russia,2743,2757,2657,31
+19,Nakamura,USA,2736,2836,2884,33
+20,Vitiugov,Russia,2732.1,2580,2673,34
+21,Topalov,Bulgaria,2730,2668,2667,46
+22,Vidit,India,2727,2639,2739,26
+23,Wei Yi,China,2725,2752,2686,22
+24,Andreikin,Russia,2724.6,2692,2736,31
+25,Harikrishna,India,2719.6,2705,2614,35
+26,Adams,England,2719.5,2670,2742,49
+27,Dubov,Russia,2714,2735,2747,25
+28,Alekseenko,Russia,2713.8,2637,2663,24
+29,Esipenko,Russia,2710.4,2681,2578,19
+30,Le Quang Liem,Vietnam,2709,2715,2774,30
+31,Maghsoodloo,Iran,2708.3,2528,2601,21
+32,Tomashevsky,Russia,2708,2631,2695,34
+33,Fedoseev,Russia,2706.9,2692,2716,26
+34,Bu Xiangzhi,China,2705,2642,2760,35
+35,Shankland,USA,2704.9,2647,2660,30
+36,Vallejo Pons,Spain,2704.3,2685.2,2655,39
+37,Yu Yangyi,China,2704,2738,2808,27
+38,Van Foreest,Netherlands,2700.6,2563,2600,22
+39,Artemiev,Russia,2699,2713,2832.4,23
+40,Wojtaszek,Poland,2698.9,2743,2730,34
+41,Navara,Czech Republic,2696.1,2706,2758,36
+42,Svidler,Russia,2694,2752,2709,45
+43,Sadler,England,2694,2673,2646,47
+44,Eljanov,Ukraine,2693.5,2641,2602,38
+45,Salem,UAE,2690,2729,2642,28
+46,Xiong,USA,2688.6,2729,2699,20
+47,Kryvoruchko,Ukraine,2687.5,2697,2617,34
+48,Almasi,Hungary,2687,2599,2585,45
+49,Matlakov,Russia,2685.4,2652,2652,30
+50,Korobov,Ukraine,2684.3,2714.8,2718,36
+51,Li Chao,China,2683,2645,2693,32
+52,Jakovenko,Russia,2682,2684,2625,38
+53,Amin,Egypt,2681.1,2614,2617,33
+54,Ivanchuk,Ukraine,2678,2686,2710,52
+55,Cheparinov,Bulgaria,2676.9,2612.4,2661,34
+56,Berkes,Hungary,2676.3,2637,2676,36
+57,McShane,England,2676,2698,2591,37
+58,Gelfand,Israel,2674.6,2648,2650,53
+59,Robson,USA,2674.5,2605,2683,26
+60,Mamedov R,Azerbaijan,2673,2690,2678,33
+61,Adhiban,India,2672,2626,2629,29
+62,Areshchenko,Ukraine,2671.5,2588,2627,35
+63,Nyzhnyk,Ukraine,2670,2658,2694,25
+64,Wang Yue,China,2669,2710,2666,34
+65,Sevian,USA,2668.1,2597,,20
+66,Shirov,Spain,2667.8,2702,2640,49
+67,Ni Hua,China,2667,2647,2579,38
+68,Saric,Croatia,2666,2684,2575,31
+69,Guseinov,Azerbaijan,2665,2692,2581,35
+70,Sargissian,Armenia,2664,2693,2596,38
+71,Kasimdzhanov,Uzbekistan,2663.9,2698,2693,41
+72,Anton Guijarro,Spain,2663.2,2627.8,2613,26
+73,Ragger,Austria,2663.1,2630,2541,33
+74,Leko,Hungary,2663,2710,2738,42
+75,Sjugirov,Russia,2663,2655.2,2655.2,28
+76,Predke,Russia,2662.9,2648,2580,27
+77,Kamsky,USA,2662,2717,2603,47
+78,Malakhov,Russia,2659.3,2670,2654,40
+79,Grandelius,Sweden,2659.1,2652,2651,28
+80,Jumabayev,Kazakhstan,2658,2562,2535,32
+81,Hou Yifan,China,2658,2621,2601,27
+82,Kovalenko,Latvia,2657.3,2649,2629,32
+83,Narayanan.S.L,India,2657,2482,2570,23
+84,Naiditsch,Azerbaijan,2656.6,2571,2577,35
+85,Sarana,Russia,2655.6,2649.6,2690.6,21
+86,Ponkratov,Russia,2655.6,2598,2642,33
+87,Oparin,Russia,2655,2726.6,2604,24
+88,Cori J,Peru,2655,2604,2588,26
+89,Najer,Russia,2654,2565,2551,44
+90,Jones,England,2653.1,2604,2657,33
+91,Rakhmanov,Russia,2652.9,2633,2554,32
+92,Volokitin,Ukraine,2652,2631,2606,35
+93,Deac,Romania,2651.1,2556,2605,20
+94,Demchenko,Russia,2650.1,2666,2583,34
+95,Inarkiev,Russia,2650,2678,2639,35
+96,Melkumyan,Armenia,2649,2686,2604,32
+97,Howell,England,2648.4,2624,2653,30
+98,Nabaty,Israel,2648,2636,2627,30
+99,Bauer,France,2647.8,2639,2727,44
+100,Abdusattorov,Uzbekistan,2646,2593,2690,17
